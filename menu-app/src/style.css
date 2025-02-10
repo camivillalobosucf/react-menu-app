@@ -1,0 +1,33 @@
+/*BY CAMILA*/
+
+.App {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.menu {
+  width: 80%;
+  max-width: 600px;
+  padding: 20px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+
+.menuItems {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.menu-item {
+  background: white;
+  padding: 15px;
+  border-radius: 5px;
+  width: 100%;
+  margin-bottom: 15px;
+  text-align: center;
+}
